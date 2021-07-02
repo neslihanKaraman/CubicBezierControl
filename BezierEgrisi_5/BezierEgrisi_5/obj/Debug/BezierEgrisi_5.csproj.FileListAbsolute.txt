@@ -1,0 +1,10 @@
+C:\Users\nesli\source\repos\BezierEgrisi_5\BezierEgrisi_5\bin\Debug\BezierEgrisi_5.exe.config
+C:\Users\nesli\source\repos\BezierEgrisi_5\BezierEgrisi_5\bin\Debug\BezierEgrisi_5.exe
+C:\Users\nesli\source\repos\BezierEgrisi_5\BezierEgrisi_5\bin\Debug\BezierEgrisi_5.pdb
+C:\Users\nesli\source\repos\BezierEgrisi_5\BezierEgrisi_5\obj\Debug\BezierEgrisi_5.Properties.Resources.resources
+C:\Users\nesli\source\repos\BezierEgrisi_5\BezierEgrisi_5\obj\Debug\BezierEgrisi_5.csproj.GenerateResource.cache
+C:\Users\nesli\source\repos\BezierEgrisi_5\BezierEgrisi_5\obj\Debug\BezierEgrisi_5.csproj.CoreCompileInputs.cache
+C:\Users\nesli\source\repos\BezierEgrisi_5\BezierEgrisi_5\obj\Debug\BezierEgrisi_5.exe
+C:\Users\nesli\source\repos\BezierEgrisi_5\BezierEgrisi_5\obj\Debug\BezierEgrisi_5.pdb
+C:\Users\nesli\source\repos\BezierEgrisi_5\BezierEgrisi_5\obj\Debug\BezierEgrisi_5.Form1.resources
+C:\Users\nesli\source\repos\BezierEgrisi_5\BezierEgrisi_5\obj\Debug\BezierEgrisi_5.csprojAssemblyReference.cache
